@@ -6,8 +6,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/nlp-ppt' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/nlp-ppt' : '',
 };
 
 export default nextConfig;
