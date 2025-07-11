@@ -20,7 +20,7 @@ export default function Lesson1() {
       <div className="bg-white rounded-lg shadow-md p-6">
         <h3 className="text-xl font-bold text-gray-900 mb-4">1.1 가상 컴퓨터는 왜 필요할까요? (Docker의 기본 개념 이해)</h3>
         <div className="flex justify-center mb-6">
-          <img src="/img/Lesson1/imgDockerExp.png" alt="Docker와 전통적 리눅스 컨테이너 비교" className="max-w-full h-auto rounded shadow" />
+          <img src="/nlp-ppt/img/Lesson1/imgDockerExp.png" alt="Docker와 전통적 리눅스 컨테이너 비교" className="max-w-full h-auto rounded shadow" />
         </div>
         
         <div className="space-y-4">
@@ -93,7 +93,7 @@ export default function Lesson1() {
         <div className="flex items-center mb-4">
           <h3 className="text-xl font-bold text-gray-900 mr-3">1.2 Docker Hub 계정 만들기</h3>
           <a href="https://hub.docker.com" target="_blank" rel="noopener noreferrer">
-            <img src="/img/Lesson1/imgDockerhubLogo.png" alt="Docker Hub 로고" className="h-8 w-auto" />
+            <img src="/nlp-ppt/img/Lesson1/imgDockerhubLogo.png" alt="Docker Hub 로고" className="h-8 w-auto" />
           </a>
         </div>
         
@@ -123,11 +123,11 @@ export default function Lesson1() {
         <div className="flex items-center mb-4">
           <h3 className="text-xl font-bold text-gray-900 mr-3">1.3 Docker Desktop 설치하고 실행하기</h3>
           <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
-            <img src="/img/Lesson1/imgDockerLogo.png" alt="Docker 로고" className="h-8 w-auto" />
+            <img src="/nlp-ppt/img/Lesson1/imgDockerLogo.png" alt="Docker 로고" className="h-8 w-auto" />
           </a>
         </div>
         <div className="flex justify-center mb-6">
-          <img src="/img/Lesson1/imgDockerDesktopApp.png" alt="Docker Desktop 애플리케이션 화면" className="max-w-full h-auto rounded shadow" />
+          <img src="/nlp-ppt/img/Lesson1/imgDockerDesktopApp.png" alt="Docker Desktop 애플리케이션 화면" className="max-w-full h-auto rounded shadow" />
         </div>
         
         <div className="space-y-4">

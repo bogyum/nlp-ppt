@@ -22,7 +22,7 @@ export default function Lesson2() {
             </ul>
           </div>
           <div className="flex-shrink-0">
-            <img src="/img/Lesson2/imgDocker.png" alt="Docker 고래 로고" className="w-48 h-auto" />
+            <img src="/nlp-ppt/img/Lesson2/imgDocker.png" alt="Docker 고래 로고" className="w-48 h-auto" />
           </div>
         </div>
       </div>
@@ -241,10 +241,10 @@ export default function Lesson2() {
       <div>
         <h4 className="font-semibold text-gray-800 mb-2">3. Docker 컨테이너 기본 명령어</h4>
         <div className="flex justify-center mb-4">
-          <img src="/img/Lesson2/imgDockerCommand1.png" alt="Docker 컨테이너 기본 명령어1" className="max-w-full h-auto rounded shadow" />
+          <img src="/nlp-ppt/img/Lesson2/imgDockerCommand1.png" alt="Docker 컨테이너 기본 명령어1" className="max-w-full h-auto rounded shadow" />
         </div>
         <div className="flex justify-center mb-4">
-          <img src="/img/Lesson2/imgDockerCommand2.png" alt="Docker 컨테이너 기본 명령어2" className="max-w-full h-auto rounded shadow" />
+          <img src="/nlp-ppt/img/Lesson2/imgDockerCommand2.png" alt="Docker 컨테이너 기본 명령어2" className="max-w-full h-auto rounded shadow" />
         </div>
       </div>
 

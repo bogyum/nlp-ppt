@@ -92,7 +92,7 @@ export default function Lesson3() {
       <div className="bg-white rounded-lg shadow-md p-6">
         <h3 className="text-xl font-bold text-gray-900 mb-4">3.2 편리한 명령 환경 만들기: bash shell 설정</h3>
         <div className="flex justify-center mb-6">
-          <img src="/img/Lesson3/imgLinuxShellScripts.png" alt="Linux Shell Scripts" className="max-w-full h-auto rounded shadow" />
+          <img src="/nlp-ppt/img/Lesson3/imgLinuxShellScripts.png" alt="Linux Shell Scripts" className="max-w-full h-auto rounded shadow" />
         </div>
         
         <div className="space-y-4">
@@ -190,22 +190,22 @@ export default function Lesson3() {
         
         <div className="space-y-6">
           <div className="flex justify-center">
-            <img src="/img/Lesson3/zshSetting1.png" alt="Zsh 설정 1단계" className="max-w-full h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson3/zshSetting1.png" alt="Zsh 설정 1단계" className="max-w-full h-auto rounded shadow" />
           </div>
           <div className="flex justify-center">
-            <img src="/img/Lesson3/zshSetting2.png" alt="Zsh 설정 2단계" className="max-w-full h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson3/zshSetting2.png" alt="Zsh 설정 2단계" className="max-w-full h-auto rounded shadow" />
           </div>
           <div className="flex justify-center">
-            <img src="/img/Lesson3/zshSetting3.png" alt="Zsh 설정 3단계" className="max-w-full h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson3/zshSetting3.png" alt="Zsh 설정 3단계" className="max-w-full h-auto rounded shadow" />
           </div>
           <div className="flex justify-center">
-            <img src="/img/Lesson3/zshSetting4.png" alt="Zsh 설정 4단계" className="max-w-full h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson3/zshSetting4.png" alt="Zsh 설정 4단계" className="max-w-full h-auto rounded shadow" />
           </div>
           <div className="flex justify-center">
-            <img src="/img/Lesson3/zshSetting5.png" alt="Zsh 설정 5단계" className="max-w-full h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson3/zshSetting5.png" alt="Zsh 설정 5단계" className="max-w-full h-auto rounded shadow" />
           </div>
           <div className="flex justify-center">
-            <img src="/img/Lesson3/zshSetting6.png" alt="Zsh 설정 6단계" className="max-w-full h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson3/zshSetting6.png" alt="Zsh 설정 6단계" className="max-w-full h-auto rounded shadow" />
           </div>
         </div>
       </div>

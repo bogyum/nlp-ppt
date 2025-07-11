@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
+  basePath: '/nlp-ppt',
+  assetPrefix: '/nlp-ppt/',
 };
 
 export default nextConfig;

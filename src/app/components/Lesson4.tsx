@@ -22,7 +22,7 @@ export default function Lesson4() {
             </ul>
           </div>
           <div className="flex-shrink-0 ml-4">
-            <img src="/img/Lesson4/imgGeminiCLIHome.png" alt="Gemini CLI 홈 화면" className="w-72 h-auto rounded shadow" />
+            <img src="/nlp-ppt/img/Lesson4/imgGeminiCLIHome.png" alt="Gemini CLI 홈 화면" className="w-72 h-auto rounded shadow" />
           </div>
         </div>
       </div>
@@ -157,7 +157,7 @@ export default function Lesson4() {
 
           <div className="flex justify-center mb-6">
             <a href="https://aistudio.google.com/prompts/new_chat" target="_blank" rel="noopener noreferrer">
-              <img src="/img/Lesson4/imgGoogleAIStduioHome.png" alt="Google AI Studio 홈 화면" className="max-w-full h-auto rounded shadow cursor-pointer hover:opacity-90 transition-opacity" />
+              <img src="/nlp-ppt/img/Lesson4/imgGoogleAIStduioHome.png" alt="Google AI Studio 홈 화면" className="max-w-full h-auto rounded shadow cursor-pointer hover:opacity-90 transition-opacity" />
             </a>
           </div>
 
@@ -185,7 +185,7 @@ export default function Lesson4() {
                     gemini
                   </div>
                   <div className="flex justify-center mt-4">
-                    <img src="/img/Lesson4/imgGeminiCLIHome.png" alt="Gemini CLI 실행 화면" className="max-w-full h-auto rounded shadow" />
+                    <img src="/nlp-ppt/img/Lesson4/imgGeminiCLIHome.png" alt="Gemini CLI 실행 화면" className="max-w-full h-auto rounded shadow" />
                   </div>
                   <p className="text-sm text-gray-600 mt-2">
                     위와 같은 화면이 나타나면 Gemini CLI가 정상적으로 설치된 것입니다.
@@ -247,7 +247,7 @@ export default function Lesson4() {
                   </div>
                     <div className="flex justify-center mb-6">
                       <a href="https://aistudio.google.com/prompts/new_chat" target="_blank" rel="noopener noreferrer">
-                        <img src="/img/Lesson4/imgGoogleAIStduioHome.png" alt="Google AI Studio 홈 화면" className="max-w-full h-auto rounded shadow cursor-pointer hover:opacity-90 transition-opacity" />
+                        <img src="/nlp-ppt/img/Lesson4/imgGoogleAIStduioHome.png" alt="Google AI Studio 홈 화면" className="max-w-full h-auto rounded shadow cursor-pointer hover:opacity-90 transition-opacity" />
                       </a>
                     </div>
                 </div>
